@@ -6,6 +6,12 @@ button {
     padding: 20px 50px;
     font-size: 30px;
    }
+   section {
+    display: block;
+    padding: 20px 50px;
+    font-size: 30px;
+    text-align: center
+   }
    div {
     margin: 10px;
     font-size: 22px;
